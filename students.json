@@ -1,0 +1,802 @@
+[
+    {
+      "firstName": "Kaelyn",
+      "lastName": "Treutel",
+      "email": "Jacques.Zulauf13@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.9,
+      "campusId": 15
+    },
+    {
+      "firstName": "Cassandra",
+      "lastName": "Tremblay",
+      "email": "Elliot.Moen@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 2.4,
+      "campusId": 13
+    },
+    {
+      "firstName": "Willie",
+      "lastName": "Pollich",
+      "email": "Jeff.Kassulke38@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.5,
+      "campusId": 14
+    },
+    {
+      "firstName": "Julie",
+      "lastName": "Lebsack",
+      "email": "Uriah_Ferry73@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.6,
+      "campusId": 12
+    },
+    {
+      "firstName": "Daphnee",
+      "lastName": "McLaughlin",
+      "email": "Ally.Daniel86@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.7,
+      "campusId": 11
+    },
+    {
+      "firstName": "Eloise",
+      "lastName": "Ferry",
+      "email": "Demario_Rohan15@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.3,
+      "campusId": 10
+    },
+    {
+      "firstName": "Adalberto",
+      "lastName": "Pollich",
+      "email": "Reid.Hills75@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.2,
+      "campusId": 9
+    },
+    {
+      "firstName": "Desiree",
+      "lastName": "Hodkiewicz",
+      "email": "Clemmie45@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.6,
+      "campusId": 8
+    },
+    {
+      "firstName": "Hildegard",
+      "lastName": "Schamberger",
+      "email": "Cristal.Paucek25@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 0.9,
+      "campusId": 7
+    },
+    {
+      "firstName": "Willie",
+      "lastName": "Boehm",
+      "email": "Brandi33@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 0.8,
+      "campusId": 6
+    },
+    {
+      "firstName": "Sheldon",
+      "lastName": "Kertzmann",
+      "email": "Esta_Nikolaus54@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.6,
+      "campusId": 5
+    },
+    {
+      "firstName": "Elta",
+      "lastName": "Greenfelder",
+      "email": "Odessa.Jaskolski@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.8,
+      "campusId": 4
+    },
+    {
+      "firstName": "Tabitha",
+      "lastName": "Willms",
+      "email": "Woodrow.Goyette@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 2.8,
+      "campusId": 3
+    },
+    {
+      "firstName": "Ines",
+      "lastName": "Conroy",
+      "email": "Brent_Huels@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.3,
+      "campusId": 2
+    },
+    {
+      "firstName": "Libbie",
+      "lastName": "Klocko",
+      "email": "Arianna_Dicki48@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.8,
+      "campusId": 1
+    },
+    {
+      "firstName": "Sheldon",
+      "lastName": "Gislason",
+      "email": "Lilyan.Rodriguez85@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.1,
+      "campusId": 15
+    },
+    {
+      "firstName": "Jameson",
+      "lastName": "Huels",
+      "email": "Verner6@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.6,
+      "campusId": 14
+    },
+    {
+      "firstName": "Kane",
+      "lastName": "Purdy",
+      "email": "Carlos71@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.1,
+      "campusId": 13
+    },
+    {
+      "firstName": "Tyrese",
+      "lastName": "Kerluke",
+      "email": "Adalberto93@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.2,
+      "campusId": 12
+    },
+    {
+      "firstName": "Joyce",
+      "lastName": "Kautzer",
+      "email": "Rubye1@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 2.4,
+      "campusId": 11
+    },
+    {
+      "firstName": "Monserrat",
+      "lastName": "Zieme",
+      "email": "Jaida.Price@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.3,
+      "campusId": 10
+    },
+    {
+      "firstName": "Damion",
+      "lastName": "Von",
+      "email": "Troy.Kling95@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 0.6,
+      "campusId": 9
+    },
+    {
+      "firstName": "Carey",
+      "lastName": "Paucek",
+      "email": "Colin_Welch@yahoo.com",
+      "imageUrl":"http://placeimg.com/640/480",
+      "gpa": 2.2,
+      "campusId": 8
+    },
+    {
+      "firstName": "Howard",
+      "lastName": "Kohler",
+      "email": "Lewis20@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 2.6,
+      "campusId": 7
+    },
+    {
+      "firstName": "Ethelyn",
+      "lastName": "Beatty",
+      "email": "Felipa.Swaniawski35@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.5,
+      "campusId": 6
+    },
+    {
+      "firstName": "Sigmund",
+      "lastName": "Bosco",
+      "email": "Else_Morissette71@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.3,
+      "campusId": 5
+    },
+    {
+      "firstName": "Jacynthe",
+      "lastName": "Dare",
+      "email": "Jerrod_Weissnat@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 2.2,
+      "campusId": 4
+    },
+    {
+      "firstName": "Elias",
+      "lastName": "Wiza",
+      "email": "Althea_Heidenreich@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.9,
+      "campusId": 3
+    },
+    {
+      "firstName": "Kailey",
+      "lastName": "Denesik",
+      "email": "Kaci.Veum@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.5,
+      "campusId": 2
+    },
+    {
+      "firstName": "Trisha",
+      "lastName": "Glover",
+      "email": "Jessica_Orn46@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.5,
+      "campusId": 1
+    },
+    {
+      "firstName": "Austyn",
+      "lastName": "Brekke",
+      "email": "Lulu_Deckow65@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.5,
+      "campusId": 15
+    },
+    {
+      "firstName": "Holly",
+      "lastName": "Senger",
+      "email": "Gladys25@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.4,
+      "campusId": 14
+    },
+    {
+      "firstName": "Jedidiah",
+      "lastName": "Price",
+      "email": "George92@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 0.8,
+      "campusId": 13
+    },
+    {
+      "firstName": "Norberto",
+      "lastName": "Abbott",
+      "email": "Sedrick61@hotmail.co",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.5,
+      "campusId": 12
+    },
+    {
+      "firstName": "Brandi",
+      "lastName": "Weissnat",
+      "email": "Alyson.Durgan@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.7,
+      "campusId": 11
+    },
+    {
+      "firstName": "Modesto",
+      "lastName": "Boyer",
+      "email": "Tania2@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.7,
+      "campusId": 10
+    },
+    {
+      "firstName": "Rosie",
+      "lastName": "Schmeler",
+      "email": "Karlie.Keeling@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.6,
+      "campusId": 9
+    },
+    {
+      "firstName": "Garrett",
+      "lastName": "Schaefer",
+      "email": "Ardella35@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.9,
+      "campusId": 8
+    },
+    {
+      "firstName": "Tianna",
+      "lastName": "Prohaska",
+      "email": "Ned.Batz@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.2,
+      "campusId": 7
+    },
+    {
+      "firstName": "Gino",
+      "lastName": "Kemmer",
+      "email": "Eve.Quitzon78@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 0.4,
+      "campusId": 6
+    },
+    {
+      "firstName": "August",
+      "lastName": "Carter",
+      "email": "Dwight_Miller87@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 2.2,
+      "campusId": 5
+    },
+    {
+      "firstName": "Gaston",
+      "lastName": "Hegmann",
+      "email": "Saige.Grady@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.2,
+      "campusId": 4
+    },
+    {
+      "firstName": "Santino",
+      "lastName": "Stehr",
+      "email": "Lexi.Brakus@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.6,
+      "campusId": 3
+    },
+    {
+      "firstName": "Marlene",
+      "lastName": "Rolfson",
+      "email": "Bessie32@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 0.8,
+      "campusId": 2
+    },
+    {
+      "firstName": "Kade",
+      "lastName": "Mayer",
+      "email": "Tyrel94@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.4,
+      "campusId": 1
+    },
+    {
+      "firstName": "Daniella",
+      "lastName": "Fay",
+      "email": "Haven16@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.2,
+      "campusId": 15
+    },
+    {
+      "firstName": "Kitty",
+      "lastName": "Marvin",
+      "email": "Arvid84@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 2.5,
+      "campusId": 14
+    },
+    {
+      "firstName": "Nat",
+      "lastName": "Torp",
+      "email": "Orie.Lesch@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.7,
+      "campusId": 13
+    },
+    {
+      "firstName": "Schuyler",
+      "lastName": "Jones",
+      "email": "Patsy_Metz@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.1,
+      "campusId": 12
+    },
+    {
+      "firstName": "Milford",
+      "lastName": "Tremblay",
+      "email": "Camille.Mitchell@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.9,
+      "campusId": 11
+    },
+    {
+      "firstName": "Lucile",
+      "lastName": "Harbe",
+      "email": "Agustina_Kemmer62@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 0.7,
+      "campusId": 10
+    },
+    {
+      "firstName": "Frida",
+      "lastName": "Lind",
+      "email": "Zackary_Cassin30@hotmail.co",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 0.7,
+      "campusId": 9
+    },
+    {
+      "firstName": "Abigale",
+      "lastName": "Johns",
+      "email": "Pink.Powlowski82@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 0.5,
+      "campusId": 8
+    },
+    {
+      "firstName": "Trenton",
+      "lastName": "Parisian",
+      "email": "Billy77@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 2.1,
+      "campusId": 7
+    },
+    {
+      "firstName": "Eveline",
+      "lastName": "Schinner",
+      "email": "Kelly.Waelchi44@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.7,
+      "campusId": 6
+    },
+    {
+      "firstName": "Van",
+      "lastName": "McGlynn",
+      "email": "Yvonne29@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.2,
+      "campusId": 5
+    },
+    {
+      "firstName": "Edmond",
+      "lastName": "Murphy",
+      "email": "Cordie_Hegmann@yahoo.com",
+      "imageUrl":" http://placeimg.com/640/480",
+      "gpa": 1.4,
+      "campusId": 4
+    },
+    {
+      "firstName": "Baby",
+      "lastName": "Konopelski",
+      "email": "Vernice.Lubowitz@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.7,
+      "campusId": 3
+    },
+    {
+      "firstName": "Earnest",
+      "lastName": "Feeney",
+      "email": "Vida6@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.1,
+      "campusId": 2
+    },
+    {
+      "firstName": "Earline",
+      "lastName": "Ratk",
+      "email": "Felicia_Schroeder64@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 0.5,
+      "campusId": 1
+    },
+    {
+      "firstName": "Mario",
+      "lastName": "Hermiston",
+      "email": "Erich86@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 0.5,
+      "campusId": 15
+    },
+    {
+      "firstName": "Kirstin",
+      "lastName": "Stiedemann",
+      "email": "Edmond92@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.6,
+      "campusId": 14
+    },
+    {
+      "firstName": "Eloy",
+      "lastName": "Price",
+      "email": "Arvel_Veum19@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.3,
+      "campusId": 13
+    },
+    {
+      "firstName": "Linnie",
+      "lastName": "O'Reilly",
+      "email": "Kaya_Nolan46@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.8,
+      "campusId": 12
+    },
+    {
+      "firstName": "Liliane",
+      "lastName": "Mosciski",
+      "email": "Enrico.Schmeler5@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.9,
+      "campusId": 11
+    },
+    {
+      "firstName": "Claudine",
+      "lastName": "VonRueden",
+      "email": "May_Kiehn88@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 0.7,
+      "campusId": 10
+    },
+    {
+      "firstName": "Rahul",
+      "lastName": "Deckow",
+      "email": "Shakira28@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 0.7,
+      "campusId": 9
+    },
+    {
+      "firstName": "Mortimer",
+      "lastName": "Stoltenberg",
+      "email": "Rocky.Bergnaum@hotmail.co",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 2.9,
+      "campusId": 8
+    },
+    {
+      "firstName": "Jimmie",
+      "lastName": "Okuneva",
+      "email": "Sydnie_Langworth@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 2.7,
+      "campusId": 7
+    },
+    {
+      "firstName": "Jillian",
+      "lastName": "Volkman",
+      "email": "Adrianna.Hane59@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.2,
+      "campusId": 6
+    },
+    {
+      "firstName": "Josefina",
+      "lastName": "Lueilwitz",
+      "email": "Buster.Welch@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.5,
+      "campusId": 5
+    },
+    {
+      "firstName": "Gracie",
+      "lastName": "Wisoky",
+      "email": "Sandrine_Farrell@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.2,
+      "campusId": 4
+    },
+    {
+      "firstName": "Brendan",
+      "lastName": "Blanda",
+      "email": "Halle.Feest9@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.4,
+      "campusId": 3
+    },
+    {
+      "firstName": "Tate",
+      "lastName": "Stehr",
+      "email": "Kody_Lemke23@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.5,
+      "campusId": 2
+    },
+    {
+      "firstName": "Kevon",
+      "lastName": "Kulas",
+      "email": "Amalia.Kirlin@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 2.8,
+      "campusId": 1
+    },
+    {
+      "firstName": "Ruben",
+      "lastName": "Rice",
+      "email": "Jarvis24@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.0,
+      "campusId": 15
+    },
+    {
+      "firstName": "Garrett",
+      "lastName": "Kozey",
+      "email": "Grant_Hammes@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.8,
+      "campusId": 14
+    },
+    {
+      "firstName": "Keenan",
+      "lastName": "Cormier",
+      "email": "Pearl57@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 0.7,
+      "campusId": 15
+    },
+    {
+      "firstName": "Sofia",
+      "lastName": "Kovacek",
+      "email": "Tara_Corkery60@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.3,
+      "campusId": 1
+    },
+    {
+      "firstName": "Roslyn",
+      "lastName": "Heller",
+      "email": "Mabelle.Hamill@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 2.6,
+      "campusId": 15
+    },
+    {
+      "firstName": "Mekhi",
+      "lastName": "Bahringer",
+      "email": "Ed56@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.1,
+      "campusId": 3
+    },
+    {
+      "firstName": "Boyd",
+      "lastName": "Jenkins",
+      "email": "Samantha62@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.6,
+      "campusId": 13
+    },
+    {
+      "firstName": "Maritza",
+      "lastName": "Mertz",
+      "email": "Isobel_Langosh@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 2.8,
+      "campusId": 8
+    },
+    {
+      "firstName": "Raoul",
+      "lastName": "Hodkiewicz",
+      "email": "Rhea.Schuppe92@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.8,
+      "campusId": 1
+    },
+    {
+      "firstName": "Chaim",
+      "lastName": "Wolf",
+      "email": "Willis66@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 2.5,
+      "campusId": 12
+    },
+    {
+      "firstName": "Elliot",
+      "lastName": "Ondricka",
+      "email": "Autumn96@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.2,
+      "campusId": 9
+    },
+    {
+      "firstName": "Elizabeth",
+      "lastName": "Johns",
+      "email": "Tom.Dooley60@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.8,
+      "campusId": 6
+    },
+    {
+      "firstName": "Halie",
+      "lastName": "Rodriguez",
+      "email": "Quinn75@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.2,
+      "campusId": 15
+    },
+    {
+      "firstName": "Jaylen",
+      "lastName": "Wolf",
+      "email": "Gilbert_Glover@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 0.7,
+      "campusId": 4
+    },
+    {
+      "firstName": "Rod",
+      "lastName": "Mills",
+      "email": "Kirsten.Moen40@hotmail.com",
+      "imageUrl":" http://placeimg.com/640/480",
+      "gpa": 2.8,
+      "campusId": 10
+    },
+    {
+      "firstName": "Jonas",
+      "lastName": "Herzog",
+      "email": "Amie_Larson@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 2.6,
+      "campusId": 3
+    },
+    {
+      "firstName": "Saul",
+      "lastName": "Kassulke",
+      "email": "Albertha_Cassin@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 2.8,
+      "campusId": 2
+    },
+    {
+      "firstName": "Wilhelmine",
+      "lastName": "Weissnat",
+      "email": "Violette37@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.3,
+      "campusId": 15
+    },
+    {
+      "firstName": "Coby",
+      "lastName": "Cronin",
+      "email": "Brandyn_Kilback@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 0.6,
+      "campusId": 15
+    },
+    {
+      "firstName": "Lisette",
+      "lastName": "Balistreri",
+      "email": "Rhiannon.Hegmann52@gmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 2.4,
+      "campusId": 11
+    },
+    {
+      "firstName": "Ciara",
+      "lastName": "Stokes",
+      "email": "Eloy.Corkery45@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.0,
+      "campusId": 1
+    },
+    {
+      "firstName": "Kaley",
+      "lastName": "Romaguera",
+      "email": "Art97@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 3.1,
+      "campusId": 13
+    },
+    {
+      "firstName": "Stephan",
+      "lastName": "Nienow",
+      "email": "Giuseppe.Wisozk@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 1.2,
+      "campusId": 12
+    },
+    {
+      "firstName": "Mikayla",
+      "lastName": "Hilll",
+      "email": "Emmy.Bartoletti@yahoo.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 2.4,
+      "campusId": 6
+    },
+    {
+      "firstName": "Cynthia",
+      "lastName": "Beatty",
+      "email": "Germaine_Wuckert@hotmail.com",
+      "imageUrl": "http://placeimg.com/640/480",
+      "gpa": 0.7,
+      "campusId": 7
+    }
+  ]
