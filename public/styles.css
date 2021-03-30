@@ -78,7 +78,7 @@ nav {
   margin-left: 1rem;
 }
 
-button {
+.btnAdd {
   background-color: rgb(70, 166, 230);
   height: 50px;
   width: 120px;

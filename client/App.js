@@ -1,10 +1,14 @@
 import React, {Component} from 'react';
-import axios from 'axios';
 import { connect } from 'react-redux';
 import Students from './Students';
 import Campuses from './Campuses';
 import Nav from './Nav'
 import { loadCampuses, loadStudents, setView } from './store';
+import Campus from './Campus';
+import {HashRouter as Router, Route} from 'react-router-dom';
+import Home from './Home'
+import Student from './Student'
+
 
 
 
@@ -12,26 +16,25 @@ class App extends Component{
 
     componentDidMount(){
         this.props.load();
-        window.addEventListener('hashchange', ()=>{
-            this.props.setView(window.location.hash.slice(1));
-        });
-        this.props.setView(window.location.hash.slice(1));
     }
 
-    render(){
-        const {students, campuses, view} = this.props;
 
+    render(){
         return (
-            <div>
-                <Nav />
-                <div className='sub-container'>
-                    <h2> All Campuses </h2>
-                    <button>Add Campus</button>
+            <Router>
+                <div>
+                    <Route component={Nav} />
+                    <div className='sub-container'>
+                        <h2> All Campuses </h2>
+                        <button className='btnAdd'>Add Campus</button>
+                    </div>
+                    <Route component={Home} path='/' exact/>
+                    <Route component={Campuses}  path='/campuses' exact/> 
+                    <Route component={Campus}  path='/campuses/:id'/> 
+                    <Route component={Students}  path='/students' exact/> 
+                    <Route component={Student}  path='/students/:id'/> 
                 </div>
-                { view ==='' && <Campuses campuses={campuses} /> }
-                { view ==='campuses' && <Campuses campuses={campuses} /> }
-                { view ==='students' && <Students students={students} /> }
-            </div>
+            </Router>
         )
     }
 }
@@ -42,13 +45,8 @@ const mapState = (state)=>{
 const mapDispatch = (dispatch)=>{
     return{
         load: async () =>{
-            const campuses = (await axios.get('/api/campuses')).data;
-            const students = (await axios.get('/api/students')).data;
-            dispatch(loadStudents(students));
-            dispatch(loadCampuses(campuses));
-        },
-        setView: function(view){
-            dispatch(setView(view))
+            dispatch(loadStudents());
+            dispatch(loadCampuses());
         }
     }
 }

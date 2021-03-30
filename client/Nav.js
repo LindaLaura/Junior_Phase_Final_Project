@@ -1,16 +1,18 @@
 import React from 'react';
-import  { connect } from 'react-redux'
+import  { connect } from 'react-redux';
+import {Link} from 'react-router-dom'
 
 
-const Nav = ({campuses, students})=>{
+const Nav = ()=>{
+    //console.log(props)
     return (
         <nav className='navbar'>
-            <a href='#' className='logo'>
+            <Link to='/' className='logo'>
                 Home
-            </a>
+            </Link>
             <ul className='nav-links'>
-                <li className='nav-item'><a href='#campuses'>Campuses</a></li>
-                <li className='nav-item'><a href='#students'>Students</a></li>
+                <li className='nav-item'><Link to='/campuses'>Campuses</Link></li>
+                <li className='nav-item'><Link to='/students'>Students</Link></li>
             </ul>
         </nav>
     )
