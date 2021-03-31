@@ -5,9 +5,10 @@ import Campuses from './Campuses';
 import Nav from './Nav'
 import { loadCampuses, loadStudents, setView } from './store';
 import Campus from './Campus';
-import {HashRouter as Router, Route} from 'react-router-dom';
+import {HashRouter as Router, Link, Route} from 'react-router-dom';
 import Home from './Home'
 import Student from './Student'
+import {Link} from 'react-router-dom'
 
 
 
@@ -26,7 +27,7 @@ class App extends Component{
                     <Route component={Nav} />
                     <div className='sub-container'>
                         <h2> All Campuses </h2>
-                        <button className='btnAdd'>Add Campus</button>
+                        <button className='btnAdd'><Link to='/campuses/create'>Add Campus</Link></button>
                     </div>
                     <Route component={Home} path='/' exact/>
                     <Route component={Campuses}  path='/campuses' exact/> 
