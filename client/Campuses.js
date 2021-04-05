@@ -10,8 +10,11 @@ const Campuses = ({campuses})=>{
                 campuses.map( campus=>{
                     return(
                         <Link to={`/campuses/${campus.id}`} key={campus.id} > 
-                            <img src={campus.imageUrl} />
-                            <p>{campus.name}</p>
+                            <div className='inner-container'>
+                                <img src={campus.imageUrl} />
+                                <p>{campus.name}</p>
+                                <button className='btnDel' onClick={()=> destroy(campus)}>delete</button>
+                            </div>
                         </Link>
                     )
                 })

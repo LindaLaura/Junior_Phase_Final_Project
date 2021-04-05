@@ -3,12 +3,16 @@ import { connect } from 'react-redux';
 import Students from './Students';
 import Campuses from './Campuses';
 import Nav from './Nav'
-import { loadCampuses, loadStudents, setView } from './store';
+import { loadCampuses, loadStudents} from './store';
 import Campus from './Campus';
-import {HashRouter as Router, Link, Route} from 'react-router-dom';
+import {HashRouter as Router, Route, Switch} from 'react-router-dom';
 import Home from './Home'
 import Student from './Student'
-import {Link} from 'react-router-dom'
+import CreateCampus from './CreateCampus'
+import Header from './Header'
+import EditCampus from './EditCampus'
+import CreateStudent from './CreateStudent'
+import EditStudent from './EditStudent'
 
 
 
@@ -25,15 +29,20 @@ class App extends Component{
             <Router>
                 <div>
                     <Route component={Nav} />
-                    <div className='sub-container'>
-                        <h2> All Campuses </h2>
-                        <button className='btnAdd'><Link to='/campuses/create'>Add Campus</Link></button>
-                    </div>
+                    <Route component={Header} />
                     <Route component={Home} path='/' exact/>
                     <Route component={Campuses}  path='/campuses' exact/> 
-                    <Route component={Campus}  path='/campuses/:id'/> 
+                    <Switch>
+                        <Route component={CreateCampus}  path='/campuses/create' exact/>
+                        <Route component={Campus}  path='/campuses/:id' exact/>
+                    </Switch>
+                    <Route component={EditCampus} path='/campuses/:id/edit'/>
                     <Route component={Students}  path='/students' exact/> 
-                    <Route component={Student}  path='/students/:id'/> 
+                    <Switch>
+                        <Route component={CreateStudent}  path='/students/create' exact/>
+                        <Route component={Student}  path='/students/:id' exact/> 
+                    </Switch>
+                    <Route component={EditStudent} path='/students/:id/edit'/> 
                 </div>
             </Router>
         )
@@ -51,5 +60,4 @@ const mapDispatch = (dispatch)=>{
         }
     }
 }
-
 export default connect(mapState, mapDispatch)(App);

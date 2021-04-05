@@ -9,7 +9,7 @@ const Home = ({campuses})=>{
         {
             campuses.map( campus=>{
                 return(
-                    <div key={campus.id} >
+                    <div  className='inner-container' key={campus.id} >
                         <img src={campus.imageUrl} />
                         <p>{campus.name}</p>
                     </div>

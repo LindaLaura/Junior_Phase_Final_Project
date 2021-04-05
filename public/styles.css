@@ -8,14 +8,25 @@ body {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
+  float: left;
+  width: 100%;
+}
+
+.container * {
+  float: left;
+  margin: 1rem;
+}
+
+.inner-container {
+  width: 100%;
+  background-color: rgb(208, 226, 232);
 }
 
 img {
-  height: 200px;
-  width: 200px;
+  height: 100px;
+  width: 100px;
   transition: box-shadow 0.5s ease;
   border-radius: 3px;
-  /* justify-content: space-between; */
 }
 
 img:hover {
@@ -23,7 +34,9 @@ img:hover {
 }
 
 p {
-  width: 200px;
+  width: 150px;
+  text-align: center;
+  margin-top: 150px;
 }
 nav {
   width: 100%;
@@ -80,7 +93,59 @@ nav {
 
 .btnAdd {
   background-color: rgb(70, 166, 230);
-  height: 50px;
+  height: 40px;
   width: 120px;
   border-radius: 10px;
+  display: block;
+  padding-top: 22px;
+  text-align: center;
+  line-height: 1em;
+}
+
+.btnEdit {
+  background-color: rgb(84, 191, 84);
+  height: 30px;
+  width: 80px;
+  border-radius: 8px;
+  display: block;
+  padding-top: 10px;
+  text-align: center;
+  line-height: 1em;
+}
+
+.btnDel {
+  background-color: rgb(238, 91, 91);
+  height: 40px;
+  width: 80px;
+  border-radius: 10px;
+  display: block;
+  padding-top: 5px;
+  text-align: center;
+  line-height: 1em;
+}
+
+.form-container li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.form-container > li > label {
+  flex: 1 0 120px;
+  max-width: 220px;
+}
+
+.form-container > li > label + * {
+  flex: 1 0 220px;
+}
+
+.form-container li button {
+  margin-left: auto;
+  padding: 8px 16px;
+  border: none;
+  background-color: rgb(70, 166, 230);
+  /* text-transform: uppercase; */
+  letter-spacing: 0.09em;
+  border-radius: 2px;
+  align-items: center;
 }
